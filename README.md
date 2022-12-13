@@ -1,24 +1,28 @@
 
+##
 ### Fundamentos do Nest.js & Prisma
+##
+
+
 ### Pré-Requisitos.
 Node.js, Nest.js, TypeScript, Prisma
 
 **Node.js**
-Site: https://nodejs.org/en/
+- Site: https://nodejs.org/en/
 
 **Nest.js**
-Site: https://nestjs.com/
+- Site: https://nestjs.com/
 
 **Prisma**
-Site: https://www.prisma.io/
+- Site: https://www.prisma.io/
 
 **TypeScript**
-Site: https://www.typescriptlang.org/
+- Site: https://www.typescriptlang.org/
 
 
 ### Ferramentas do programador.
 - Visual Studio Code
-Site: https://code.visualstudio.com/download
+- Site: https://code.visualstudio.com/download
 - Extensão
   - `Prisma`
 
